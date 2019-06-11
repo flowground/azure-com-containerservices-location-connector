@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the ContainerServiceClient API (version 2017-09-30).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/containerservices-location/2017-09-30/swagger.json<br/>
-Generated at: 2019-05-07T17:37:53+03:00
+Generated at: 2019-06-11T18:13:51+03:00
 
 ## API Description
 
